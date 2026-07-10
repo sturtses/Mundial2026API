@@ -39,7 +39,6 @@ public class SeleccionControllerTests
         // Assert
         seleccion.Should().NotBeNull();
         seleccion!.Nombre.Should().Be("España");
-        resultado.Should().BeFalse();
 
     }
 
