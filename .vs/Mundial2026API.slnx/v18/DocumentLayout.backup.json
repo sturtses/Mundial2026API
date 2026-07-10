@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97AF15A4-4BBA-5494-4E9F-E7DCC5B82C7C}|Mundial2026API\\Mundial2026API.csproj|c:\\users\\victus\\source\\repos\\mundial2026api\\mundial2026api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97AF15A4-4BBA-5494-4E9F-E7DCC5B82C7C}|Mundial2026API\\Mundial2026API.csproj|solutionrelative:mundial2026api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97AF15A4-4BBA-5494-4E9F-E7DCC5B82C7C}|Mundial2026API\\Mundial2026API.csproj|c:\\users\\victus\\source\\repos\\mundial2026api\\mundial2026api\\mundial2026api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97AF15A4-4BBA-5494-4E9F-E7DCC5B82C7C}|Mundial2026API\\Mundial2026API.csproj|solutionrelative:mundial2026api\\mundial2026api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB706E0-0609-CB14-33E3-BCA74A1783BD}|Mundial2026API.Tests\\Mundial2026API.Tests.csproj|c:\\users\\victus\\source\\repos\\mundial2026api\\mundial2026api.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB706E0-0609-CB14-33E3-BCA74A1783BD}|Mundial2026API.Tests\\Mundial2026API.Tests.csproj|solutionrelative:mundial2026api.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB706E0-0609-CB14-33E3-BCA74A1783BD}|Mundial2026API.Tests\\Mundial2026API.Tests.csproj|c:\\users\\victus\\source\\repos\\mundial2026api\\mundial2026api.tests\\seleccioncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB706E0-0609-CB14-33E3-BCA74A1783BD}|Mundial2026API.Tests\\Mundial2026API.Tests.csproj|solutionrelative:mundial2026api.tests\\seleccioncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB706E0-0609-CB14-33E3-BCA74A1783BD}|Mundial2026API.Tests\\Mundial2026API.Tests.csproj|c:\\users\\victus\\source\\repos\\mundial2026api\\mundial2026api.tests\\mundial2026api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEB706E0-0609-CB14-33E3-BCA74A1783BD}|Mundial2026API.Tests\\Mundial2026API.Tests.csproj|solutionrelative:mundial2026api.tests\\mundial2026api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97AF15A4-4BBA-5494-4E9F-E7DCC5B82C7C}|Mundial2026API\\Mundial2026API.csproj|c:\\users\\victus\\source\\repos\\mundial2026api\\mundial2026api\\controllers\\seleccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97AF15A4-4BBA-5494-4E9F-E7DCC5B82C7C}|Mundial2026API\\Mundial2026API.csproj|solutionrelative:mundial2026api\\controllers\\seleccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97AF15A4-4BBA-5494-4E9F-E7DCC5B82C7C}|Mundial2026API\\Mundial2026API.csproj|c:\\users\\victus\\source\\repos\\mundial2026api\\mundial2026api\\models\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97AF15A4-4BBA-5494-4E9F-E7DCC5B82C7C}|Mundial2026API\\Mundial2026API.csproj|solutionrelative:mundial2026api\\models\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97AF15A4-4BBA-5494-4E9F-E7DCC5B82C7C}|Mundial2026API\\Mundial2026API.csproj|c:\\users\\victus\\source\\repos\\mundial2026api\\mundial2026api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97AF15A4-4BBA-5494-4E9F-E7DCC5B82C7C}|Mundial2026API\\Mundial2026API.csproj|solutionrelative:mundial2026api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97AF15A4-4BBA-5494-4E9F-E7DCC5B82C7C}|Mundial2026API\\Mundial2026API.csproj|c:\\users\\victus\\source\\repos\\mundial2026api\\mundial2026api\\data\\mundialcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97AF15A4-4BBA-5494-4E9F-E7DCC5B82C7C}|Mundial2026API\\Mundial2026API.csproj|solutionrelative:mundial2026api\\data\\mundialcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mundial2026API.Tests",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API.Tests\\Mundial2026API.Tests.csproj",
+              "RelativeDocumentMoniker": "Mundial2026API.Tests\\Mundial2026API.Tests.csproj",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API.Tests\\Mundial2026API.Tests.csproj",
+              "RelativeToolTip": "Mundial2026API.Tests\\Mundial2026API.Tests.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-09T17:56:58.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeleccionControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API.Tests\\SeleccionControllerTests.cs",
+              "RelativeDocumentMoniker": "Mundial2026API.Tests\\SeleccionControllerTests.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API.Tests\\SeleccionControllerTests.cs",
+              "RelativeToolTip": "Mundial2026API.Tests\\SeleccionControllerTests.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAQwGIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:52:44.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API.Tests\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "Mundial2026API.Tests\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API.Tests\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "Mundial2026API.Tests\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:45:03.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API\\Program.cs",
+              "RelativeDocumentMoniker": "Mundial2026API\\Program.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API\\Program.cs",
+              "RelativeToolTip": "Mundial2026API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:31:15.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mundial2026API.csproj",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API\\Mundial2026API.csproj",
+              "RelativeDocumentMoniker": "Mundial2026API\\Mundial2026API.csproj",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API\\Mundial2026API.csproj",
+              "RelativeToolTip": "Mundial2026API\\Mundial2026API.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-09T17:37:16.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeleccionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API\\Controllers\\SeleccionesController.cs",
+              "RelativeDocumentMoniker": "Mundial2026API\\Controllers\\SeleccionesController.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API\\Controllers\\SeleccionesController.cs",
+              "RelativeToolTip": "Mundial2026API\\Controllers\\SeleccionesController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:42:39.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MundialContext.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API\\Data\\MundialContext.cs",
+              "RelativeDocumentMoniker": "Mundial2026API\\Data\\MundialContext.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API\\Data\\MundialContext.cs",
+              "RelativeToolTip": "Mundial2026API\\Data\\MundialContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:30:37.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Seleccion.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API\\Models\\Seleccion.cs",
+              "RelativeDocumentMoniker": "Mundial2026API\\Models\\Seleccion.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API\\Models\\Seleccion.cs",
+              "RelativeToolTip": "Mundial2026API\\Models\\Seleccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:30:20.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API\\appsettings.json",
+              "RelativeDocumentMoniker": "Mundial2026API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Mundial2026API\\Mundial2026API\\appsettings.json",
+              "RelativeToolTip": "Mundial2026API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-09T17:31:01.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
